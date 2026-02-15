@@ -1,0 +1,86 @@
+{
+  "hash": "a8588dc4",
+  "browserHash": "d85e148b",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "ff71f254",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "552ebce5",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "382b1627",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "0e9863e9",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../axios/index.js",
+      "file": "axios.js",
+      "fileHash": "b1410918",
+      "needsInterop": false
+    },
+    "dayjs": {
+      "src": "../../dayjs/dayjs.min.js",
+      "file": "dayjs.js",
+      "fileHash": "ad28b2fe",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "1123f87f",
+      "needsInterop": true
+    },
+    "react-icons/fa": {
+      "src": "../../react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "0fec35ad",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "99aed1e7",
+      "needsInterop": false
+    },
+    "recharts": {
+      "src": "../../recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "027de87a",
+      "needsInterop": false
+    },
+    "react-icons/fi": {
+      "src": "../../react-icons/fi/index.mjs",
+      "file": "react-icons_fi.js",
+      "fileHash": "dafb6a71",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-242QNG6S": {
+      "file": "chunk-242QNG6S.js"
+    },
+    "chunk-LAV6FB6A": {
+      "file": "chunk-LAV6FB6A.js"
+    },
+    "chunk-K5YNGTCN": {
+      "file": "chunk-K5YNGTCN.js"
+    },
+    "chunk-ZC22LKFR": {
+      "file": "chunk-ZC22LKFR.js"
+    }
+  }
+}
