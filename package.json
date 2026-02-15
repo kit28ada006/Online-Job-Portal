@@ -1,43 +1,25 @@
 {
-	"name": "@alloc/quick-lru",
-	"version": "5.2.0",
-	"description": "Simple “Least Recently Used” (LRU) cache",
-	"license": "MIT",
-	"repository": "sindresorhus/quick-lru",
-	"funding": "https://github.com/sponsors/sindresorhus",
-	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
-	},
-	"engines": {
-		"node": ">=10"
-	},
-	"scripts": {
-		"test": "xo && nyc ava && tsd"
-	},
-	"files": [
-		"index.js",
-		"index.d.ts"
-	],
-	"keywords": [
-		"lru",
-		"quick",
-		"cache",
-		"caching",
-		"least",
-		"recently",
-		"used",
-		"fast",
-		"map",
-		"hash",
-		"buffer"
-	],
-	"devDependencies": {
-		"ava": "^2.0.0",
-		"coveralls": "^3.0.3",
-		"nyc": "^15.0.0",
-		"tsd": "^0.11.0",
-		"xo": "^0.26.0"
-	}
+  "name": "jobportal-frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "dayjs": "^1.11.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^6.30.3",
+    "recharts": "^3.7.0",
+    "socket.io-client": "^4.7.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.19",
+    "vite": "^4.3.9"
+  }
 }
